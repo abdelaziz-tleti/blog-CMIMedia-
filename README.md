@@ -1,11 +1,11 @@
 # blog-CMIMedia
 
 
-## 🚀 Environment Setup
+##  Environment Setup
 
-This project is made with [Symfony][1] 6.1.
+This project is made with Symfony 6.1.
 
-### 🐳 Needed tools
+###  Needed tools
 
 1. PHP 8.2 or higher;
 2. Composer
@@ -14,11 +14,11 @@ This project is made with [Symfony][1] 6.1.
 6. Clone this project: `git clone hhttps://github.com/abdelaziz-tleti/blog-CMIMedia-.git`
 7. Move to the project folder: `cd blog-CMIMedia-`
 
-### 🛠️ Environment configuration
+### 🛠 Environment configuration
 
 1. Create a local environment file (`cp .env .env.local`) if you want to modify any parameter
 
-### 🔥 Application execution
+### Application execution
 
 1. Install the backend dependencies: `composer install`.
 2. Start data base and adminer containers : `docker-compose up` (http://localhost:8080/ ) 
