@@ -26,3 +26,6 @@ This project is made with Symfony 6.1.
    and `php bin/console migration:migrate` or force with `php bin/console d:s:u -f`
 7. Start the server with Symfony: `symfony server:start`.
    Then access the application in your browser at the given URL (http://localhost:8000/micro-post).
+
+
+![image](https://user-images.githubusercontent.com/3765550/215512817-e752b08a-7d17-4c48-82ad-77feb2a80bb7.png)
