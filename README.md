@@ -3,7 +3,7 @@
 
 ## 🚀 Environment Setup
 
-This project is made with [Symfony][1] 6.1.
+This project is made with Symfony 6.1.
 
 ### 🐳 Needed tools
 
